@@ -6,7 +6,7 @@ Main diagonal of a matrix A is a collection of elements A[i, j] such that i = j.
 
 
 Problem Constraints
-1 <= N <= 103
+1 <= N <= 10^3
 
 -1000 <= A[i][j] <= 1000
 

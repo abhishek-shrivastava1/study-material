@@ -7,7 +7,7 @@ Given row number A and index B, return the Bth indexed symbol in row A. (The val
 
 
 Problem Constraints
-1 <= A <= 105
+1 <= A <= 10^5
 
 0 <= B <= min(2A - 1 - 1 , 1018)
 

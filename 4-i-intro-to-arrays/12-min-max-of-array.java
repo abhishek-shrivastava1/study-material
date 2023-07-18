@@ -4,8 +4,8 @@ Given an array A of size N. You need to find the sum of Maximum and Minimum elem
 
 
 Problem Constraints
-1 <= N <= 105
--109 <= A[i] <= 109
+1 <= N <= 10^5
+-10^9 <= A[i] <= 10^9
 
 
 Input Format

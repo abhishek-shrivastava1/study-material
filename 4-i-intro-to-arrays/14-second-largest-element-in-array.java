@@ -4,9 +4,9 @@ You are given an integer array A. You have to find the second largest element/va
 
 
 Problem Constraints
-1 <= |A| <= 105
+1 <= |A| <= 10^5
 
-0 <= A[i] <= 109
+0 <= A[i] <= 10^9
 
 
 

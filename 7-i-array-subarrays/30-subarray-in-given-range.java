@@ -4,9 +4,9 @@ Given an array A of length N, return the subarray from B to C.
 
 
 Problem Constraints
-1 <= N <= 105
+1 <= N <= 10^5
 
-1 <= A[i] <= 109
+1 <= A[i] <= 10^9
 
 0 <= B <= C < N
 

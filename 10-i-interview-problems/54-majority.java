@@ -6,8 +6,8 @@ You may assume that the array is non-empty and the majority element always exist
 
 
 Problem Constraints
-1 <= N <= 5*105
-1 <= num[i] <= 109
+1 <= N <= 5*10^5
+1 <= num[i] <= 10^9
 
 
 Input Format

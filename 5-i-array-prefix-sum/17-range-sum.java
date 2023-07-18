@@ -8,8 +8,8 @@ More formally, find A[L] + A[L + 1] + A[L + 2] +... + A[R - 1] + A[R] for each q
 
 
 Problem Constraints
-1 <= N, M <= 105
-1 <= A[i] <= 109
+1 <= N, M <= 10^5
+1 <= A[i] <= 10^9
 0 <= L <= R < N
 
 

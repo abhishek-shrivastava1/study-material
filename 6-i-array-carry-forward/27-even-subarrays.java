@@ -9,7 +9,7 @@ Return "YES" if it is possible; otherwise, return "NO" (without quotes).
 
 
 Problem Constraints
-1 <= |A|, A[i] <= 106
+1 <= |A|, A[i] <= 10^6
 
 
 

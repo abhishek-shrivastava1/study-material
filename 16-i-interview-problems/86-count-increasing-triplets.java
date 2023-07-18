@@ -4,8 +4,8 @@ You are given an array A of N elements. Find the number of triplets i,j and k su
 
 
 Problem Constraints
-1 <= N <= 103
-1 <= A[i] <= 109
+1 <= N <= 10^3
+1 <= A[i] <= 10^9
 
 
 Input Format

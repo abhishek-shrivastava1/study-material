@@ -4,9 +4,9 @@ Given heads of two linked lists A and B, check if they are identical i.e. each o
 
 
 Problem Constraints
-1 <= size of linked lists <= 105
+1 <= size of linked lists <= 10^5
 
-1 <= value of each node <= 109
+1 <= value of each node <= 10^9
 
 
 

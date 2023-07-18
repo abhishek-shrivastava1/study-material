@@ -10,8 +10,8 @@ Note: Read-only array means that the input array should not be modified in the p
 
 
 Problem Constraints
-1 <= N <= 7*105
-1 <= A[i] <= 109
+1 <= N <= 7*10^5
+1 <= A[i] <= 10^9
 
 
 Input Format

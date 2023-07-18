@@ -5,11 +5,11 @@ You are given a 2D integer matrix A, make all the elements in a row or column ze
 
 
 Problem Constraints
-1 <= A.size() <= 103
+1 <= A.size() <= 10^3
 
-1 <= A[i].size() <= 103
+1 <= A[i].size() <= 10^3
 
-0 <= A[i][j] <= 103
+0 <= A[i][j] <= 10^3
 
 
 

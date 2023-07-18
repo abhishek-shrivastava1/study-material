@@ -10,8 +10,8 @@ Note : Be careful of integer overflow issues while calculations. Use appropriate
 
 
 Problem Constraints
-1 <= N <= 105
-1 <= Ai <= 10 4
+1 <= N <= 10^5
+1 <= Ai <= 10^4
 
 
 Input Format

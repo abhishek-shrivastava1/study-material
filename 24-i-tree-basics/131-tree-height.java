@@ -7,9 +7,9 @@ A binary tree's height is the number of nodes along the longest path from the ro
 
 
 Problem Constraints
-1 <= Number of nodes in the tree <= 105
+1 <= Number of nodes in the tree <= 10^5
 
-0 <= Value of each node <= 109
+0 <= Value of each node <= 10^9
 
 
 

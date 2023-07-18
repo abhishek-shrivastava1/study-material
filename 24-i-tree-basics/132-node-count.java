@@ -5,9 +5,9 @@ You are given the root node of a binary tree A. You have to find the number of n
 
 
 Problem Constraints
-1 <= Number of nodes in the tree <= 105
+1 <= Number of nodes in the tree <= 10^5
 
-0 <= Value of each node <= 107
+0 <= Value of each node <= 10^7
 
 
 

@@ -7,8 +7,8 @@ Problem Description
 
 
 Problem Constraints
- 1 <= N, M <= 103
- 1 <= A[i] <= 105
+ 1 <= N, M <= 10^3
+ 1 <= A[i] <= 10^5
  0 <= L <= R < N
 
 

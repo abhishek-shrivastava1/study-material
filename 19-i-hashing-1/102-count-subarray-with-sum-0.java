@@ -6,8 +6,8 @@ Find the count of the subarrays in the array which sums to zero. Since the answe
 
 
 Problem Constraints
-1 <= N <= 105
--109 <= A[i] <= 109
+1 <= N <= 10^5
+-10^9 <= A[i] <= 10^9
 
 
 Input Format

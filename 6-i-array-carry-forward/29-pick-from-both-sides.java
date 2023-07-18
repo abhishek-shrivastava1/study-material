@@ -15,11 +15,11 @@ Remove 0 elements from front and 3 elements from the back.
 
 
 Problem Constraints
-1 <= N <= 105
+1 <= N <= 10^5
 
 1 <= B <= N
 
--103 <= A[i] <= 103
+-10^3 <= A[i] <= 10^3
 
 
 

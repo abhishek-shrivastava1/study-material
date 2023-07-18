@@ -4,9 +4,9 @@ Given the root of a binary tree A. Return the sum of all the nodes of the binary
 
 
 Problem Constraints
-1 <= Number of nodes in A <= 104
+1 <= Number of nodes in A <= 10^4
 
-1 <= value of each node <= 104
+1 <= value of each node <= 10^4
 
 
 

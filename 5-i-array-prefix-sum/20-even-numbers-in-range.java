@@ -9,9 +9,9 @@ For every query, your task is to find the count of even numbers in the range fro
 
 
 Problem Constraints
-1 <= N <= 105
-1 <= Q <= 105
-1 <= A[i] <= 109
+1 <= N <= 10^5
+1 <= Q <= 10^5
+1 <= A[i] <= 10^9
 0 <= B[i][0] <= B[i][1] < N
 
 

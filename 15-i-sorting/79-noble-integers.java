@@ -5,8 +5,8 @@ Given an integer array A, find if an integer p exists in the array such that the
 
 
 Problem Constraints
-1 <= |A| <= 2*105
--108 <= A[i] <= 108
+1 <= |A| <= 2*10^5
+-10^8 <= A[i] <= 10^8
 
 
 Input Format

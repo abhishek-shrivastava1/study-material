@@ -10,9 +10,9 @@ Pair (a, b) and (b, a) is considered to be the same and should be counted once.
 
 
 Problem Constraints
-1 <= N <= 105
+1 <= N <= 10^5
 
-1 <= A[i], B <= 107
+1 <= A[i], B <= 10^7
 
 
 

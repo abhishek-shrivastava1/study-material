@@ -4,8 +4,8 @@ Given an array A of N integers. Construct prefix sum of the array in the given a
 
 
 Problem Constraints
-1 <= N <= 105
-1 <= A[i] <= 103
+1 <= N <= 10^5
+1 <= A[i] <= 10^3
 
 
 Input Format

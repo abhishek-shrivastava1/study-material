@@ -7,9 +7,9 @@ Given an array of words A of size N written in the alien language, and the order
 
 
 Problem Constraints
-1 <= N, length of each word <= 105
+1 <= N, length of each word <= 10^5
 
-Sum of the length of all words <= 2 * 106
+Sum of the length of all words <= 2 * 10^6
 
 
 

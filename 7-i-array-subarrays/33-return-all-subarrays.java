@@ -8,7 +8,7 @@ Note : The order of the subarrays in the resulting 2D array does not matter.
 
 Problem Constraints
 1 <= N <= 100
-1 <= A[i] <= 105
+1 <= A[i] <= 10^5
 
 
 Input Format

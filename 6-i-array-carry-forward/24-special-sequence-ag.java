@@ -9,7 +9,7 @@ NOTE: Return the answer modulo 109 + 7 as the answer can be very large.
 
 
 Problem Constraints
-1 <= length(A) <= 105
+1 <= length(A) <= 10^5
 
 
 

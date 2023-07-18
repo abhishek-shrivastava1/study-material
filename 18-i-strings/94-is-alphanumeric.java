@@ -7,7 +7,7 @@ Return 1 if all the characters of a character array are alphanumeric (a-z, A-Z, 
 
 
 Problem Constraints
-1 <= |A| <= 105
+1 <= |A| <= 10^5
 
 
 

@@ -5,7 +5,7 @@ There are A people standing in a circle. Person 1 kills their immediate clockwis
 
 
 Problem Constraints
-1 <= A <= 105
+1 <= A <= 10^5
 
 
 Input Format

@@ -9,7 +9,7 @@ Return the maximum possible profit.
 
 Problem Constraints
 0 <= A.size() <= 700000
-1 <= A[i] <= 107
+1 <= A[i] <= 10^7
 
 
 

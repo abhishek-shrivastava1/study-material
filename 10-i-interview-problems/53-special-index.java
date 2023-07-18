@@ -5,8 +5,8 @@ Given an array, arr[] of size N, the task is to find the count of array indices 
 
 
 Problem Constraints
-1 <= n <= 105
--105 <= A[i] <= 105
+1 <= n <= 10^5
+-10^5 <= A[i] <= 10^5
 
 
 Input Format

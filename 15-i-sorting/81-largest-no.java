@@ -8,7 +8,7 @@ Note: The result may be very large, so you need to return a string instead of an
 
 Problem Constraints
 1 <= len(A) <= 100000
-0 <= A[i] <= 2*109
+0 <= A[i] <= 2*10^9
 
 
 

@@ -6,8 +6,8 @@ Given an array A and an integer B, find the number of occurrences of B in A.
 
 Problem Constraints
 
-1 <= B, Ai <= 109
-1 <= |A| <= 105
+1 <= B, Ai <= 10^9
+1 <= |A| <= 10^5
 
 
 Input Format

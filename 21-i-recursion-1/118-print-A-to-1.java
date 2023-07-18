@@ -7,7 +7,7 @@ Note :- After printing all the numbers from A to 1, print a new line.
 
 
 Problem Constraints
-1 <= A <= 104
+1 <= A <= 10^4
 
 
 

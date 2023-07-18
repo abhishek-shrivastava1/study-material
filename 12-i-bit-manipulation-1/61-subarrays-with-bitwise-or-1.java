@@ -6,7 +6,7 @@ Note : The answer can be large. So, return type must be long.
 
 
 Problem Constraints
-1 <= A <= 105
+1 <= A <= 10^5
 
 
 Input Format

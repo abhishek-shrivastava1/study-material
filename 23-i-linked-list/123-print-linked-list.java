@@ -7,9 +7,9 @@ Note : The last node value must also be succeeded by a space and after printing 
 
 
 Problem Constraints
-1 <= size of linked list <= 105
+1 <= size of linked list <= 10^5
 
-1 <= value of nodes <= 109
+1 <= value of nodes <= 10^9
 
 
 

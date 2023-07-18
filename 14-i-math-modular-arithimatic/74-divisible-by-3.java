@@ -4,7 +4,7 @@ Given a number in the form of an array A of size N. Each of the digits of the nu
 
 
 Problem Constraints
-1 <= N <= 105
+1 <= N <= 10^5
 
 0 <= A[i] <= 9
 

@@ -5,7 +5,7 @@ You are required to convert the number A into its corresponding value in decimal
 
 
 Problem Constraints
-0 <= A <= 109
+0 <= A <= 10^9
 2 <= B <= 9
 
 

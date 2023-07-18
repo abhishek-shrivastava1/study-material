@@ -7,7 +7,7 @@ Return the updated A value
 
 
 Problem Constraints
-1 <= A <= 109
+1 <= A <= 10^9
 0 <= B <= 30
 
 

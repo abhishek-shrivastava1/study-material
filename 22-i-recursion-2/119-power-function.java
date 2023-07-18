@@ -6,9 +6,9 @@ Note: The remainders on division cannot be negative. In other words, make sure t
 
 
 Problem Constraints
--109 <= A <= 109
-0 <= B <= 109
-1 <= C <= 109
+-10^9 <= A <= 10^9
+0 <= B <= 10^9
+1 <= C <= 10^9
 
 
 Input Format

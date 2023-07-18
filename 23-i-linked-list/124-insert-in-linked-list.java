@@ -10,13 +10,13 @@ Follow 0-based indexing for the node numbering.
 
 
 Problem Constraints
-1 <= size of linked list <= 105
+1 <= size of linked list <= 10^5
 
-1 <= value of nodes <= 109
+1 <= value of nodes <= 10^9
 
-1 <= B <= 109
+1 <= B <= 10^9
 
-0 <= C <= 105
+0 <= C <= 10^5
 
 
 

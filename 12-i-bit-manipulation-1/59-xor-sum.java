@@ -8,7 +8,7 @@ Note: Bitwise XOR operator will return 1, if both bits are different. If bits ar
 
 
 Problem Constraints
-1 <= A, B <= 109
+1 <= A, B <= 10^9
 
 
 Input Format

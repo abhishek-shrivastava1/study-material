@@ -7,7 +7,7 @@ You have to toggle case of each character of string A. For e.g 'A' is changed to
 
 
 Problem Constraints
-1 <= N <= 105
+1 <= N <= 10^5
 
 A[i] ∈ ['a'-'z', 'A'-'Z']
 

@@ -7,7 +7,7 @@ A number is said to be a magic number if the sum of its digits is calculated til
 
 
 Problem Constraints
-1 <= A <= 109
+1 <= A <= 10^9
 
 
 

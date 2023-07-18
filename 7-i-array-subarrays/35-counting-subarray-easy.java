@@ -7,11 +7,11 @@ We may assume that there is no overflow.
 
 
 Problem Constraints
-1 <= N <= 103
+1 <= N <= 10^3
 
 1 <= A[i] <= 1000
 
-1 <= B <= 107
+1 <= B <= 10^7
 
 
 

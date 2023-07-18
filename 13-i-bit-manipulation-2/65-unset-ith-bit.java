@@ -10,7 +10,7 @@ The bit position is 0-indexed, which means that the least significant bit (LSB) 
 
 
 Problem Constraints
-1 <= A <= 109
+1 <= A <= 10^9
 0 <= B <= 30
 
 

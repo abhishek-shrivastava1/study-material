@@ -5,9 +5,9 @@ Check if there exists a pair (i,j) such that Bi + Bj = A and i!=j.
 
 
 Problem Constraints
-1<= Length of array B <= 103
-0<= Bi <=109
-0<= A <=109
+1<= Length of array B <= 10^3
+0<= Bi <=10^9
+0<= A <=10^9
 
 
 Input Format

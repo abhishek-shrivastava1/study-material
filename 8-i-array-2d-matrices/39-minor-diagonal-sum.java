@@ -7,7 +7,7 @@ Minor diagonal of a M X M matrix A is a collection of elements A[i, j] such that
 
 
 Problem Constraints
-1 <= N <= 103
+1 <= N <= 10^3
 
 -1000 <= A[i][j] <= 1000
 

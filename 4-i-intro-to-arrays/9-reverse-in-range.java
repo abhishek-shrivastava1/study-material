@@ -4,8 +4,8 @@ Given an array A of N integers and also given two integers B and C. Reverse the 
 
 
 Problem Constraints
-1 <= N <= 105
-1 <= A[i] <= 109
+1 <= N <= 10^5
+1 <= A[i] <= 10^9
 0 <= B <= C <= N - 1
 
 

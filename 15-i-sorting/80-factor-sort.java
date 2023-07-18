@@ -6,8 +6,8 @@ Note: You cannot use any extra space
 
 
 Problem Constraints
-1 <= N <= 104
-1 <= A[i] <= 104
+1 <= N <= 10^4
+1 <= A[i] <= 10^4
 
 
 Input Format

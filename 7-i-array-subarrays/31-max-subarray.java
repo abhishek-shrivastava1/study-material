@@ -5,9 +5,9 @@ But the sum must not exceed B.
 
 
 Problem Constraints
-1 <= A <= 103
-1 <= B <= 109
-1 <= C[i] <= 106
+1 <= A <= 10^3
+1 <= B <= 10^9
+1 <= C[i] <= 10^6
 
 
 Input Format

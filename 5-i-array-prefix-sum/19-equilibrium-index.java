@@ -16,8 +16,8 @@ If there are more than one equilibrium indexes then return the minimum index.
 
 
 Problem Constraints
-1 <= N <= 105
--105 <= A[i] <= 105
+1 <= N <= 10^5
+-10^5 <= A[i] <= 10^5
 
 
 Input Format

@@ -10,7 +10,7 @@ or the year is multiple of 4 and not multiple of 100.
 
 Problem Constraints
 
-1 <= A <= 109
+1 <= A <= 10^9
 
 
 

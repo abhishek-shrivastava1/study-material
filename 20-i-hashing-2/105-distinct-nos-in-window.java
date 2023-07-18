@@ -9,9 +9,9 @@ NOTE: if B > N, return an empty array.
 
 
 Problem Constraints
-1 <= N <= 106
+1 <= N <= 10^6
 
-1 <= A[i] <= 109
+1 <= A[i] <= 10^9
 
 
 Input Format

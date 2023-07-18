@@ -9,9 +9,9 @@ Return 1 if any such pair exists else return 0.
 
 
 Problem Constraints
-1 <= N <= 105
--103 <= A[i] <= 103
--105 <= B <= 105
+1 <= N <= 10^5
+-10^3 <= A[i] <= 10^3
+-10^5 <= B <= 10^5
 
 
 Input Format

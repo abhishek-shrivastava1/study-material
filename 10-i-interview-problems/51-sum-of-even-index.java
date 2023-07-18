@@ -7,8 +7,8 @@ Note : Use 0-based indexing
 
 
 Problem Constraints
-1 <= N <= 105
-1 <= Q <= 105
+1 <= N <= 10^5
+1 <= Q <= 10^5
 1 <= A[i] <= 100
 0 <= B[i][0] <= B[i][1] < N
 

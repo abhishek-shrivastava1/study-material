@@ -7,9 +7,9 @@ A sequence of numbers is called an arithmetic progression if the difference betw
 
 
 Problem Constraints
-2 <= N <= 105
+2 <= N <= 10^5
 
--109 <= A[i] <= 109
+-10^9 <= A[i] <= 10^9
 
 
 

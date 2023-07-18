@@ -4,8 +4,8 @@ Given an array A. Sort this array using Count Sort Algorithm and return the sort
 
 
 Problem Constraints
-1 <= |A| <= 105
-1 <= A[i] <= 105
+1 <= |A| <= 10^5
+1 <= A[i] <= 10^5
 
 
 Input Format

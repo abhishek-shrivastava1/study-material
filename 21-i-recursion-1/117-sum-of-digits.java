@@ -4,7 +4,7 @@ Given a number A, we need to find the sum of its digits using recursion.
 
 
 Problem Constraints
-1 <= A <= 109
+1 <= A <= 10^9
 
 
 Input Format

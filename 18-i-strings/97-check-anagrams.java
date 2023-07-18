@@ -6,7 +6,7 @@ Note : Two strings A and B are called anagrams to each other if A can be formed 
 
 
 Problem Constraints
-1 <= N <= 105
+1 <= N <= 10^5
 A and B are lowercase strings
 
 

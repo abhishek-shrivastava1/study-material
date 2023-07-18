@@ -9,9 +9,9 @@ The result can be in any order.
 
 
 Problem Constraints
-1 <= N, M <= 105
+1 <= N, M <= 10^5
 
-1 <= A[i] <= 109
+1 <= A[i] <= 10^9
 
 
 

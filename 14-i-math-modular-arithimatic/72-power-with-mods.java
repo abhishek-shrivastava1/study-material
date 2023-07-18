@@ -5,9 +5,9 @@ Calculate the value of (A ^ B) % C
 
 
 Problem Constraints
-1 <= A <= 109
-0 <= B <= 105
-1 <= C <= 109
+1 <= A <= 10^9
+0 <= B <= 10^5
+1 <= C <= 10^9
 
 
 Input Format

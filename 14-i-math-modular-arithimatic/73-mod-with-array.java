@@ -6,9 +6,9 @@ You are also given a number B. You have to find out the value of A % B and retur
 
 
 Problem Constraints
-1 <= N <= 105
+1 <= N <= 10^5
 0 <= Ai <= 9
-1 <= B <= 109
+1 <= B <= 10^9
 
 
 Input Format

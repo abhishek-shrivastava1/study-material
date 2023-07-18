@@ -4,9 +4,9 @@ Given an integer array A of size N and an integer B, you have to return the same
 
 
 Problem Constraints
-1 <= N <= 105
-1 <= A[i] <=109
-1 <= B <= 109
+1 <= N <= 10^5
+1 <= A[i] <=10^9
+1 <= B <= 10^9
 
 
 Input Format

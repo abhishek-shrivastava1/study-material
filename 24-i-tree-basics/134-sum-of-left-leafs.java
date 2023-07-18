@@ -7,9 +7,9 @@ Given a binary tree, find and return the sum of node value of all left leaves in
 
 Problem Constraints
 
-1 <= number of nodes <= 5 * 105
+1 <= number of nodes <= 5 * 10^5
 
-1 <= node value <= 105
+1 <= node value <= 10^5
 
 
 

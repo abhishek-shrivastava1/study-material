@@ -5,10 +5,10 @@ For the i-th number, find the frequency of B[i] in the array A and return a list
 
 
 Problem Constraints
-1 <= |A| <= 105
-1 <= |B| <= 105
-1 <= A[i] <= 105
-1 <= B[i] <= 105
+1 <= |A| <= 10^5
+1 <= |B| <= 10^5
+1 <= A[i] <= 10^5
+1 <= B[i] <= 10^5
 
 
 Input Format

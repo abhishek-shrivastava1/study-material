@@ -8,9 +8,9 @@ If A and B are two matrices of the same order (same dimensions). Then A - B is a
 
 Problem Constraints
 
-1 <= N, M <= 103
+1 <= N, M <= 10^3
 
--109 <= A[i][j], B[i][j] <= 109
+-10^9 <= A[i][j], B[i][j] <= 10^9
 
 
 

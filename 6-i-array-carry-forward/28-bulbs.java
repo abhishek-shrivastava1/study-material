@@ -13,7 +13,7 @@ Note: 0 represents the bulb is off and 1 represents the bulb is on.
 
 
 Problem Constraints
-0 <= N <= 5×105
+0 <= N <= 5×10^5
 0 <= A[i] <= 1
 
 

@@ -10,7 +10,7 @@ You have to determine whether it is possible to convert array A to size 1, conta
 Problem Constraints
 1 <= N <= 100000
 
-1 <= A[i] <= 106
+1 <= A[i] <= 10^6
 
 
 

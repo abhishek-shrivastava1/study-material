@@ -9,7 +9,7 @@ Find the minimum cost to remove all elements from the array.
 
 Problem Constraints
 0 <= N <= 1000
-1 <= A[i] <= 103
+1 <= A[i] <= 10^3
 
 
 
